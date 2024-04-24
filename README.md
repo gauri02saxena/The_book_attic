@@ -8,4 +8,3 @@ The Book Attic is a captivating and engaging landing page that invites you into 
 
 - HTML5
 - CSS3
-- Bootstrap
